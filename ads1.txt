@@ -5016,3 +5016,4 @@ zxcv.3g.qq.com
 zymsc.bs2cdn.yy.com
 zz.reddit.com
 zzsf.renren.com
+0.0.0.0 www.dadamontok.com
