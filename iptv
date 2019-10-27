@@ -1,0 +1,88 @@
+#EXTM3U @chikebum
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA",NET TV
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS TV
+http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="INDONESIA",TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="INDONESIA",ANTV
+http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.13" group-title="INDONESIA",SCTV
+http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.13" group-title="INDONESIA",SCTV (2)
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small1.png?v=2.0.0.13" group-title="INDONESIA",KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA",TVONE
+http://210.210.155.35/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA",METRO TV
+http://210.210.155.35/qwr9ew/s/s106/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png?v=2.0.0.13" group-title="INDONESIA",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="INDONESIA",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Lx2s21Z/cnbcind.png" group-title="INDONESIA",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png" group-title="INDONESIA",INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="INDONESIA",RCTI HD
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="INDONESIA",GLOBALTV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="INDONESIA",MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INDONESIA",INEWS HD
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA",TVRI SPORT
+http://210.210.155.35/qwr9ew/s/s107/01.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",FIGHT SPORTS
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.harmonicinc.com/wp-content/uploads/fly-images/11351/Harmonic_Super_Soccer_VOS_360_Case_Study-300x253.png" group-title="INDONESIA",SUPER SOCCER
+http://210.210.155.35/uq2663/h/h20/index.m3u8
+
+#EXTINF:-1group-title="INDONESIA",ELSHINTA TV
+http://45.126.83.51/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA",TVRI
+http://45.126.83.51/qwr9ew/s/s11/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="INDONESIA",TVRI HD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="INDONESIA",RTV
+http://45.126.83.51/qwr9ew/s/s12/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?v=2.0.0.13" group-title="INDONESIA",DAAI TV
+http://45.126.83.51/qwr9ew/s/s13/index.m3u8
